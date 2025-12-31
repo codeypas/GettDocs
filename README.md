@@ -41,6 +41,10 @@ GetDoc is a professional Document Management System built with a separated MEAN 
    npm run dev
    ```
 
+## UI Screenshots:
+
+<img src="Screenshot 2025-12-31 at 16.12.34.png" width="60%" alt="Dashboard Screenshot" />
+
 ---
 
 ## Key Features
